@@ -1,0 +1,39 @@
+body{
+    background-color: lightskyblue;
+}
+.a{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.b{
+    background-color: pink;
+    border-radius: 10px;
+}
+.c{
+    background-color: orange;
+    border-radius: 10px;
+}
+
+#google_lens{
+    height: 80px;
+    width: 80px;
+}
+#out_put_of_google_lens{
+    background-color: white;
+    border-radius: 20px;
+    font-size:15px ;
+    border-width: 40;
+}
+.BCHST{
+    height: 110px;
+    width:100px;
+}
+.m{
+    background-color: white;
+    border-radius: 20px;
+    font-size:15px ;
+    border-width: 40;
+}
+#table{
+    width: 190px;
+}
